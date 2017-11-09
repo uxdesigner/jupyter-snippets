@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "page":1
+  },
+"data":{"results":[
+  {"FirstName":"John",
+
+  "LastName":"Mark",
+
+  "MiddleName":"Lewis",
+
+  "username":"johnlewis2",
+
+  "password":"2910"},
+  {"FirstName":"John2",
+
+  "LastName":"Mark",
+
+  "MiddleName":"Lewis",
+
+  "username":"johnlewis2",
+
+  "password":"2910"}
+  ]}
+}
